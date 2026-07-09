@@ -3,7 +3,7 @@
 <h2>👨‍💻 Embeded System Projects:</h2>
 
 - <b>Cyber-Physical Systems (CPS)</b>
-  - [Cybersecurity Lock with AI automation](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [ChromoStick - Cyberlock](https://github.com/mediatorbtd/ChromoStick-Cyberlock.git)
 
 <h2>📺 Popular YouTube Videos</h2>
 
